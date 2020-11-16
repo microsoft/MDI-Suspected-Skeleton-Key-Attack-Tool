@@ -1,6 +1,6 @@
 # Microsoft Defender for Identity - Aorato Skeleton Key Malware Remote DC Scanner
 
-[**Click here to download the tool**](https://github.com/microsoft/ATA-AATP-Sizing-Tool/releases)
+[**Click here to download the tool**](https://github.com/microsoft/MDI-Suspected-Skeleton-Key-Attack-Tool/releases/)
 
 Remotely scans for the existence of the Skeleton Key Malware (http://www.secureworks.com/cyber-threat-intelligence/threats/skeleton-key-malware-analysis/)
 
@@ -33,4 +33,4 @@ Verified on the following platforms:
 | Windows XP  | No  |
 | Windows 2000  | No  |
 
-[**Click here to download the tool**](https://github.com/microsoft/ATA-AATP-Sizing-Tool/releases)
+[**Click here to download the tool**](https://github.com/microsoft/MDI-Suspected-Skeleton-Key-Attack-Tool/releases/)
